@@ -3,14 +3,13 @@
 
 vannaksuos@gmail.com
 
-# Title:Readme Generator
+# Title:Note Taker
 
 # [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 
 # Description
 
- Its a readme generator. It will help me make a readme for github faster so I dont have to spend too much time building it
-
+ its an app that take down notes
 # Table of contents
 
 * Title
