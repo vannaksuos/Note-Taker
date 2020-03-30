@@ -5,7 +5,7 @@ vannaksuos@gmail.com
 
 # Title:Note Taker
 
-# [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
+# 
 
 # Description
 
@@ -24,11 +24,10 @@ vannaksuos@gmail.com
 
 # Installation
 
-I run node index.js in my readme generator folder and it has prebuild question and some answers ready to write in to my readme.md file from my markdown.js
 
 # Usage
 
-It will be used to generate a pre made readme file for all my future projects
+
 
 # License
 
