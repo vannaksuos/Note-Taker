@@ -14,10 +14,7 @@ https://github.com/vannaksuos/Note-Taker
 
 # Description
 This project is to make an application for taking down notes. In this unit, we will create our own server-side APIs using the Express.js framework. Express is the most widely used Node.js server framework. It will allow us to quickly and easily establish our API routes and associated HTTP request methods.
-
-=======
- its an app that take down notes
->>>>>>> b536738390805f51cfa0c461df7ac3370e656e76
+ 
 # Table of contents
 <br/>1. Title<br/>2. Description<br/>3. Table of Contents<br/>4. Installation<br/>5. Usage<br/>6. License<br/>7. Contribution<br/>8. Tests<br/>9. Questions<br/>10. Demo<br/>
 
