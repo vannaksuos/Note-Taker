@@ -14,9 +14,18 @@ https://github.com/vannaksuos/Note-Taker
  [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 
 # Description
+<<<<<<< HEAD
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
+=======
+
+
+Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+
+This project is to make an application for taking down notes. In this unit, we will create our own server-side APIs using the Express.js framework. Express is the most widely used Node.js server framework. It will allow us to quickly and easily establish our API routes and associated HTTP request methods.
+ 
+>>>>>>> 8947f5b0cf0ffc4e4586dc74a7ec356f631890aa
 # Table of contents
 
 1. Title
@@ -48,6 +57,10 @@ npm i express
 
 This application is used to take notes.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8947f5b0cf0ffc4e4586dc74a7ec356f631890aa
 # License
 
 Copyright (c) 2020 Vannak Suos
