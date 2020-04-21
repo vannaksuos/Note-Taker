@@ -47,7 +47,7 @@ module.exports = function(app) {
   // Don"t worry about it!
 
   app.delete("/api/notes/:id", function(req, res) {
-    // Empty out the arrays of data
+   
     console.log(req.params)
     notesData = notesData.slice(0, notesData.length -1);
     res.json({ ok: true });

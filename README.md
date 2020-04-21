@@ -11,7 +11,7 @@ https://github.com/vannaksuos/Note-Taker
 
 # Badges
 
- [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
+[![Build Status](https://travis-ci.com/vannaksuos/Note-Taker.svg?branch=master)](https://travis-ci.com/vannaksuos/Note-Taker)
 
 # Description
 
