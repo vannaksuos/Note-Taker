@@ -17,10 +17,6 @@ https://github.com/vannaksuos/Note-Taker
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
-
-
-Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
-
 This project is to make an application for taking down notes. In this unit, we will create our own server-side APIs using the Express.js framework. Express is the most widely used Node.js server framework. It will allow us to quickly and easily establish our API routes and associated HTTP request methods.
  
 # Table of contents
@@ -48,6 +44,7 @@ This project is to make an application for taking down notes. In this unit, we w
 # Installation
 
 npm install
+<br>
 npm i express   
 
 # Usage
